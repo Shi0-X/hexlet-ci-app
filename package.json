@@ -29,8 +29,12 @@
     "mongoose": "^5.13.14",
     "postcss": "^8.4.15",
     "qs": "^6.10.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^5.2.0",
     "sanitize-html": "^2.7.1",
-    "semver": "^5.7.2"
+    "semver": "^5.7.2",
+    "styled-components": "^5.2.1"
   },
   "author": {
     "name": "A Strapi developer"
