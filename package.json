@@ -23,7 +23,7 @@
   "dependencies": {
     "@babel/traverse": "^7.18.10",
     "@strapi/database": "^4.25.10",
-    "@strapi/plugin-i18n": "^4.11.7",
+    "@strapi/plugin-i18n": "^4.15.0",
     "@strapi/plugin-users-permissions": "^4.15.0",
     "@strapi/strapi": "^4.25.10",
     "better-sqlite3": "^11.3.0",
