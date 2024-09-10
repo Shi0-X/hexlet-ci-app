@@ -21,9 +21,16 @@
     "supertest": "^6.2.4"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "^4.7.1",
-    "@strapi/plugin-users-permissions": "^4.25.10",
-    "@strapi/strapi": "^4.25.10"
+    "@babel/traverse": "^7.18.10",
+    "@strapi/plugin-i18n": "^4.11.7",
+    "@strapi/plugin-users-permissions": "^4.25.9",
+    "@strapi/strapi": "^4.25.9",
+    "dottie": "^2.0.3",
+    "mongoose": "^5.13.14",
+    "postcss": "^8.4.15",
+    "qs": "^6.10.2",
+    "sanitize-html": "^2.7.1",
+    "semver": "^5.7.2"
   },
   "author": {
     "name": "A Strapi developer"
